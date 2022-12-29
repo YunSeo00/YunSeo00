@@ -4,7 +4,7 @@
 ## Hi there 👋
 
 👋 My name is Yunseo Choi<br>
-🏗️ SMWU STAT & IT engineering<br>
+❄️ SMWU STAT & IT engineering<br>
 🔥 Interested in recommendation system, bandit, online learning <br>
 📨 Contact me on [Gmail](mailto:chldbstj00@sookmyung.ac.kr) <br>
 </div>
@@ -70,11 +70,11 @@
 
 <div align='center'>
 
-## 👨‍💻Interested in to
+## 👨‍💻Interested in
 
 <p align="center">
     <a href="https://reactjs.org/" target="_blank">
-        <img alt="recommender system" src="https://img.shields.io/badge/Recommender System-F7DF1E?style=for-the-badge&logo=Recommender System&logoColor=black">
+        <img alt="recommendation system" src="https://img.shields.io/badge/Recommender System-F7DF1E?style=for-the-badge&logo=Recommender System&logoColor=black">
     </a>
     <a href="https://www.djangoproject.com/">
         <img alt="Bandit" src="https://img.shields.io/badge/Multi Armed Bandit-AFE1AF?style=for-the-badge&logo=Bandit&logoColor=white">
@@ -101,16 +101,6 @@
 </div><br><br> —>
 
 
-
-
-
-
-
-- Skills Set
-R, python, sas, C, C++, java, spring boot, mysql
-
-- 관심 분야
-추천, 이미지, bandit, online learning
 
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYunSeo00&count_bg=%233D83C8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
