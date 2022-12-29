@@ -35,7 +35,7 @@
   </a>
   
   <a target="_blank">
-        <img alt="JS" src="https://img.shields.io/badge/JAVA-F7DF1E?style=for-the-badge&logo=JAVA&logoColor=black">
+        <img alt="JS" src="https://img.shields.io/badge/JAVA-0073CE?style=for-the-badge&logo=JAVA&logoColor=black">
   </a>
   
   <a target="_blank">
@@ -70,14 +70,14 @@
 
 <div align='center'>
 
-## 👨‍💻Learning
+## 👨‍💻Interest
 
 <p align="center">
     <a href="https://reactjs.org/" target="_blank">
-        <img alt="Typescript" src="https://img.shields.io/badge/React_native-61DAFB?style=for-the-badge&logo=react&logoColor=black">
+        <img alt="recommender system" src="https://img.shields.io/badge/Recommender System-F7DF1E?style=for-the-badge&logo=Recommender System&logoColor=black">
     </a>
     <a href="https://www.djangoproject.com/">
-        <img alt="Django" src="https://img.shields.io/badge/Django-FF7F00?style=for-the-badge&logo=django&logoColor=white">
+        <img alt="Bandit" src="https://img.shields.io/badge/Multi-Arm-Bandit-AFE1AF?style=for-the-badge&logo=Bandit&logoColor=white">
     </a>
 </p>
 
