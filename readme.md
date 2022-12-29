@@ -5,7 +5,7 @@
 
 👋 My name is Yunseo Choi<br>
 ❄️ SMWU STAT & IT engineering<br>
-🔥 Interested in recommendation system, bandit, online learning <br>
+🔥 Into Recommendation System, Multi Armed Bandit, Online Learning <br>
 📨 Contact me on [Gmail](mailto:chldbstj00@sookmyung.ac.kr) <br>
 </div>
 <br>
