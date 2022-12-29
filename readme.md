@@ -74,7 +74,7 @@
 
 <p align="center">
     <a href="https://reactjs.org/" target="_blank">
-        <img alt="recommendation system" src="https://img.shields.io/badge/Recommender System-F7DF1E?style=for-the-badge&logo=Recommender System&logoColor=black">
+        <img alt="recommendation system" src="https://img.shields.io/badge/Recommendation System-F7DF1E?style=for-the-badge&logo=Recommender System&logoColor=black">
     </a>
     <a href="https://www.djangoproject.com/">
         <img alt="Bandit" src="https://img.shields.io/badge/Multi Armed Bandit-AFE1AF?style=for-the-badge&logo=Bandit&logoColor=white">
