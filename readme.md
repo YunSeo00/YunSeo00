@@ -42,6 +42,12 @@
         <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
   </a>
   
+  </a>
+  
+  <a target="_blank">
+        <img alt="SQL" src="https://img.shields.io/badge/MySQL-FCC624?style=for-the-badge&logo=MySQL&logoColor=black">
+  </a>
+ 
   <br>
   
   <a target="_blank">
