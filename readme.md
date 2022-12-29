@@ -53,7 +53,7 @@
   </a>
   
   <a target="_blank">
-    <img alt="numpy" src="hhttps://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white">
+    <img alt="numpy" src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white">
   </a>
   
   <a target="_blank">
