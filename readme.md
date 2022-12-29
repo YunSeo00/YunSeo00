@@ -45,7 +45,7 @@
   </a>
   
   <a target="_blank">
-        <img alt="SQL" src="https://img.shields.io/badge/MySQL-FCC624?style=for-the-badge&logo=MySQL&logoColor=black">
+        <img alt="SQL" src="https://img.shields.io/badge/MySQL-FF7F00?style=for-the-badge&logo=MySQL&logoColor=black">
   </a>
  
   <br>
