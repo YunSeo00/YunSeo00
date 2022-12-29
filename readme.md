@@ -14,28 +14,54 @@
 ## 💻  Language
 
 <p align="center">
-  <a href="https://www.python.org" target="_blank">
+  <a target="_blank">
     <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   </a>
   
-  <a href="https://www.python.org" target="_blank">
+  <a target="_blank">
     <img alt="R" src="https://img.shields.io/badge/R-198CE7?style=for-the-badge&logo=R&logoColor=blue">
   </a>
   
-  <a href="https://www.python.org" target="_blank">
+  <a target="_blank">
     <img alt="SAS" src="https://img.shields.io/badge/SAS-0072C6?style=for-the-badge&logo=SAS&logoColor=blue">
   </a>
   
-  <a href="https://pytorch.org/" target="_blank">
-    <img alt="Pytorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
-  </a>
-  
-  <a href="https://pytorch.org/" target="_blank">
+  <a target="_blank">
     <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">
   </a>
   
-  <a href="https://www.javascript.com/" target="_blank">
+  <a target="_blank">
         <img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+  </a>
+  
+  <a target="_blank">
+        <img alt="JS" src="https://img.shields.io/badge/JAVA-F7DF1E?style=for-the-badge&logo=JAVA&logoColor=black">
+  </a>
+  
+  <a target="_blank">
+        <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+  </a>
+  
+  <br>
+  
+  <a target="_blank">
+    <img alt="Pytorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
+  </a>
+  
+  <a target="_blank">
+    <img alt="pandas" src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white">
+  </a>
+  
+  <a target="_blank">
+    <img alt="numpy" src="hhttps://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white">
+  </a>
+  
+  <a target="_blank">
+    <img alt="sklearn" src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white">
+  </a>
+  
+  <a target="_blank">
+    <img alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
   </a>
 
 </p>
