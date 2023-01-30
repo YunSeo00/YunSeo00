@@ -65,10 +65,7 @@
   <a target="_blank">
     <img alt="sklearn" src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white">
   </a>
-  
-  <a target="_blank">
-    <img alt="Spring" src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
-  </a>
+
 
 </p>
 
