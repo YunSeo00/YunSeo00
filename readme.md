@@ -1,19 +1,23 @@
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text='Yunseo Github!'&fontSize=90" />
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Yunseo%20Github!&fontSize=90)
 
- <div align="center">
-
-## Hi there 👋
+<div align="center">
 
 👋 My name is Yunseo Choi<br>
 ❄️ SMWU STAT & IT engineering<br>
 🔥 Into Recommendation System, Multi Armed Bandit, Online Learning <br>
 📨 Contact me on [Gmail](mailto:chldbstj00@sookmyung.ac.kr) <br>
 </div>
+
 <br>
  <div align="center">
- 
-## 💻  Language
+
+## 📚Tech Stack📚
+
+### 💻  Platforms & Language
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
+
 
 <p align="center">
   <a target="_blank">
