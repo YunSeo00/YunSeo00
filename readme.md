@@ -23,17 +23,13 @@
 
 <br>
 
-<img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=
-C&logoColor=blue"/>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=
-C++&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C++&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=
-Linux&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=
-MySQL&logoColor=black"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=black"/>
 
 
 <br><br>
@@ -68,8 +64,3 @@ MySQL&logoColor=black"/>
 
 <div align='center'>
 
-
-
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYunSeo00&count_bg=%233D83C8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
- 
