@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Yunseo%20Github!&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=AFE1AF&height=200&section=header&text=Yunseo%20Github!&fontSize=90)
 
 <div align="center">
 
@@ -69,7 +69,7 @@
 
 ## 👨‍💻Studying
 
-#### 🖊️ ML/DL Algorithm
+#### 🖊️ ML/DL Algorithm & Data Engineering
 
 <img src="https://img.shields.io/badge/RecSys-F7DF1E?style=flat&logo=RecSys&logoColor=white"/>
 
@@ -77,9 +77,6 @@
 
 <img src="https://img.shields.io/badge/GNN-F39914?style=flat&logo=GNN&logoColor=white"/>
 
-<br>
-
-#### 🖊️ Data Engineering
 
 <img src="https://img.shields.io/badge/Hadoop-66CCFF?style=flat&logo=Apache Hadoop&logoColor=white"/>
 
@@ -89,10 +86,3 @@
 
 </div>
 
-## 📖 Education
-
-|기간|소속|전공|학위|비고|
-|-------------|-----|----|----|---|
-|2019.03 ~ 2023.02|숙명여자대학교|통계학과|제1전공|졸업|
-|2020.08 ~ 2023.02|숙명여자대학교|it공학전공|복수전공|졸업|
-|2023.03 ~ |숙명여자대학교 대학원|통계학과|석사과정|재학중|
