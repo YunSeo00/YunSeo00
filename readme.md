@@ -15,6 +15,8 @@
 
 ## 📚Stacks📚
 
+### 📘 Languages
+
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=R&logoColor=white"/>
@@ -22,6 +24,7 @@
 <img src="https://img.shields.io/badge/SAS-0072C6?style=flat&logo=SAS&logoColor=blue"/>
 
 <br>
+
 
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"/>
 
@@ -31,8 +34,9 @@
 
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=black"/>
 
+<br>
 
-<br><br>
+### 📕 ML/DL Libraries
 
 <img src="https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white"/>
 
@@ -51,14 +55,10 @@
 
 ## 👨‍💻Interested in
 
-<p align="center">
-    <a href="https://reactjs.org/" target="_blank">
-        <img alt="recommendation system" src="https://img.shields.io/badge/Recommendation System-F7DF1E?style=for-the-badge&logo=Recommender System&logoColor=black">
-    </a>
-    <a href="https://www.djangoproject.com/">
-        <img alt="Bandit" src="https://img.shields.io/badge/Multi Armed Bandit-AFE1AF?style=for-the-badge&logo=Bandit&logoColor=white">
-    </a>
-</p>
+<img src="https://img.shields.io/badge/RecSys-F7DF1E?style=flat&logo=RecSys&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/MAB-AFE1AF?style=flat&logo=MAB&logoColor=white"/>
+
 
 </div><br>
 
