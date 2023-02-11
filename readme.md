@@ -12,68 +12,37 @@
 <br>
  <div align="center">
 
-## 📚Tech Stack📚
-
-### 💻  Platforms & Language
+## 📚Stacks📚
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
 
+<img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=R&logoColor=white"/>
 
-<p align="center">
-  <a target="_blank">
-    <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  </a>
-  
-  <a target="_blank">
-    <img alt="R" src="https://img.shields.io/badge/R-198CE7?style=for-the-badge&logo=R&logoColor=blue">
-  </a>
-  
-  <a target="_blank">
-    <img alt="SAS" src="https://img.shields.io/badge/SAS-0072C6?style=for-the-badge&logo=SAS&logoColor=blue">
-  </a>
-  
-  <a target="_blank">
-    <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">
-  </a>
-  
-  <a target="_blank">
-        <img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-  </a>
-  
-  <a target="_blank">
-        <img alt="JS" src="https://img.shields.io/badge/JAVA-0073CE?style=for-the-badge&logo=JAVA&logoColor=black">
-  </a>
-  
-  <a target="_blank">
-        <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-  </a>
-  
-  </a>
-  
-  <a target="_blank">
-        <img alt="SQL" src="https://img.shields.io/badge/MySQL-FF7F00?style=for-the-badge&logo=MySQL&logoColor=black">
-  </a>
- 
-  <br>
-  
-  <a target="_blank">
-    <img alt="Pytorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
-  </a>
-  
-  <a target="_blank">
-    <img alt="pandas" src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white">
-  </a>
-  
-  <a target="_blank">
-    <img alt="numpy" src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white">
-  </a>
-  
-  <a target="_blank">
-    <img alt="sklearn" src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white">
-  </a>
+<img src="https://img.shields.io/badge/SAS-0072C6?style=flat&logo=SAS&logoColor=blue"/>
+
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=
+C&logoColor=blue"/>
+
+<img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=
+C++&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=
+Linux&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=
+MySQL&logoColor=black"/>
 
 
-</p>
+<br><br>
+
+<img src="https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=NumPy&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/scikit%20learn-F7931E?style=flat&logo=scikit-learn&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white"/>
+
 
 </div><br>
 
