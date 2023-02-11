@@ -10,7 +10,8 @@
 </div>
 
 <br>
- <div align="center">
+
+<div align="center">
 
 ## 📚Stacks📚
 
@@ -19,6 +20,8 @@
 <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=R&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/SAS-0072C6?style=flat&logo=SAS&logoColor=blue"/>
+
+<br>
 
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=
 C&logoColor=blue"/>
@@ -44,7 +47,9 @@ MySQL&logoColor=black"/>
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white"/>
 
 
-</div><br>
+</div>
+
+<br>
 
 <div align='center'>
 
@@ -62,21 +67,6 @@ MySQL&logoColor=black"/>
 </div><br>
 
 <div align='center'>
-
-<!-- ## Projects
-<p>
-<a href="https://github.com/orange-fritters/fastMRI">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=orange-fritters&repo=fastMRI&theme=light" width="200" height="100" />
-</a>  
-<a href="https://github.com//orange-fritters/PlanetA">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=orange-fritters&repo=PlanetA&theme=light"width="200" height="100" />
-</a>
-<a href="https://github.com//orange-fritters/fastMRI">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=orange-fritters&repo=urban-design&theme=light" width="200" height="100"/>
-</a>  
-</p>
-
-</div><br><br> —>
 
 
 
