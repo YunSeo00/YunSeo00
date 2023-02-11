@@ -78,7 +78,7 @@
 <img src="https://img.shields.io/badge/GNN-F39914?style=flat&logo=GNN&logoColor=white"/>
 
 
-<img src="https://img.shields.io/badge/Hadoop-66CCFF?style=flat&logo=Apache Hadoop&logoColor=white"/>
+<img src="https://img.shields.io/badge/Hadoop-66CCFF?style=flat&logo=ApacheHadoop&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/Spark-E25A1C?style=flat&logo=Apache Spark&logoColor=white"/>
 
