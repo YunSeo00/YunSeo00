@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=AFE1AF&height=200&section=header&text=Yunseo%20Github!&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=AFE1AF&height=200&section=header&text=Yunseo%20Github!&fontSize=70)
 
 <div align="center">
 
