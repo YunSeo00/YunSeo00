@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=AFE1AF&height=200&section=header&text=Yunseo%20Github!&fontSize=70)
+![header](https://capsule-render.vercel.app/api?type=waving&color=AFE1AF&height=170&section=header&text=Yunseo%20Github!&fontSize=50)
 
 <div align="center">
 
@@ -76,6 +76,9 @@
 <img src="https://img.shields.io/badge/MAB-AFE1AF?style=flat&logo=MAB&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/GNN-F39914?style=flat&logo=GNN&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/MLOps-d0c0b2?style=flat&logo=MLOps&logoColor=white"/>
+
 
 
 </div>
