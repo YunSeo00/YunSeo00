@@ -3,9 +3,8 @@
 
 <div align="center">
 
-👋 My name is Yunseo Choi<br>
 ❄️ SMWU STAT & IT engineering<br>
-📨 Contact me on [Gmail](mailto:chldbstj00@sookmyung.ac.kr) <br>
+📨 mail : chldbstj00@sookmyung.ac.kr <br>
 
 </div>
 
