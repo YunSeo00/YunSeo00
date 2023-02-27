@@ -4,7 +4,7 @@
 <div align="center">
 
 ❄️ SMWU STAT & IT engineering<br>
-📨 mail : chldbstj00@sookmyung.ac.kr <br>
+📨 chldbstj00@sookmyung.ac.kr <br>
 
 </div>
 
