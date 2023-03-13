@@ -3,8 +3,7 @@
 
 <div align="center">
 
-❄️ SMWU STAT & IT engineering<br>
-📨 chldbstj00@sookmyung.ac.kr <br>
+## ❄️ SMWU STAT & IT engineering<br> ❄️
 
 </div>
 
