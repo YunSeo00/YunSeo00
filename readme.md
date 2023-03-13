@@ -3,7 +3,7 @@
 
 <div align="center">
 
-## ❄️ SMWU STAT & IT engineering<br> ❄️
+## ❄️ SMWU STAT & IT engineering ❄️ <br> 
 
 </div>
 
