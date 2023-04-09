@@ -45,6 +45,9 @@
 <img src="https://img.shields.io/badge/scikit%20learn-F7931E?style=flat&logo=scikit-learn&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white"/>
+  
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=TensorFlow&logoColor=white"/>
+
 
 #### 📗 Environment
 
