@@ -73,13 +73,15 @@
 
 ## 👨‍💻Studying
 
-#### 🖊️ ML/DL Algorithm & Data Engineering
+#### 🖊️ ML/DL Algorithm
 
 <img src="https://img.shields.io/badge/RecSys-F7DF1E?style=flat&logo=RecSys&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/MAB-AFE1AF?style=flat&logo=MAB&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/GNN-F39914?style=flat&logo=GNN&logoColor=white"/>
+
+#### 🖊️ Data Engineering  
 
 <img src="https://img.shields.io/badge/Spark-E25A1C?style=flat&logo=apachespark&logoColor=white"/>
   
