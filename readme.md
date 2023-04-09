@@ -78,6 +78,10 @@
 
 <img src="https://img.shields.io/badge/GNN-F39914?style=flat&logo=GNN&logoColor=white"/>
 
+<img src="https://img.shields.io/badge/Spark-#E25A1C?style=flat&logo=Spark&logoColor=white"/>
+  
+<img src="https://img.shields.io/badge/Docker-##2496ED?style=flat&logo=Docker&logoColor=white"/>
+
 <img src="https://img.shields.io/badge/MLOps-d0c0b2?style=flat&logo=MLOps&logoColor=white"/>
 
 
