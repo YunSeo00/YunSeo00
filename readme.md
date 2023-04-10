@@ -5,9 +5,9 @@
 
 ## ❄️ SMWU STAT & IT engineering ❄️ <br> 
   
-❄️ Bachelor of Science in Statistics (ExtraCredit Completion) (2019.03 - 2023.02) ❄️ <br> 
-❄️ Bachelor of Engineering in IT Engineering (2019.03 - 2023.02) ❄️ <br> 
-❄️ Master of Science in Statistics (current)(2023.03 - 2024.08(expected)) ❄️ <br> <br>
+Bachelor of Science in Statistics (ExtraCredit Completion) (2019.03 - 2023.02) <br> 
+Bachelor of Engineering in IT Engineering (2019.03 - 2023.02) <br> 
+Master of Science in Statistics (current)(2023.03 - 2024.08(expected)) <br> <br>
   
   
 ❄️ 숙명여자대학교 통계학과 데이터 분석 학회 SookTat 1기 (부회장, 개설멤버) 2021.03 - 2022.02 ❄️ <br> 
