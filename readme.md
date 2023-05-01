@@ -88,7 +88,6 @@
 
 <img src="https://img.shields.io/badge/MAB-AFE1AF?style=flat&logo=MAB&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/GNN-F39914?style=flat&logo=GNN&logoColor=white"/>
 
 #### 🖊️ Data Engineering  
 
