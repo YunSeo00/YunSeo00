@@ -3,7 +3,7 @@
 
 <div align="center">
 
-## ❄️ SMWU STAT & IT engineering ❄️ <br> 
+## ❄️ SMWU Master Course in Statistics ❄️ <br> 
   
 ❄️ 숙명여자대학교 통계학과 데이터 분석 학회 SookTat 1기 (부회장, 개설멤버) 2021.03 - 2022.02 ❄️ <br> 
 🍊 빅데이터 분석 연합동아리 비타민 9기 (멤버) 2022.03 - 2023.02 🍊<br>
