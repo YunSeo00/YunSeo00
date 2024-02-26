@@ -7,7 +7,7 @@
   
 ❄️ 숙명여자대학교 통계학과 데이터 분석 학회 SookTat 1기 (부회장, 개설멤버) 2021.03 - 2022.02 ❄️ <br> 
 🍊 빅데이터 분석 연합동아리 비타민 9기 (멤버) 2022.03 - 2023.02 🍊<br>
-🐘 빅데이터 분석 연합동아리 보아즈 엔지니어링 부문 20기 (공동대표, 멤버) 2023.02 - 2024.02(expected) 🐘<br>
+🐘 빅데이터 분석 연합동아리 보아즈 엔지니어링 부문 20기 (공동대표, 멤버) 2023.02 - 2024.02 🐘<br>
 
 </div>
 
@@ -26,10 +26,6 @@
 <img src="https://img.shields.io/badge/SAS-0072C6?style=flat&logo=SAS&logoColor=blue"/>
 
 <br>
-
-<img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C++&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white"/>
 
