@@ -11,13 +11,11 @@
 
 </div>
 
-<br>
-
 <div align="left">
 
 ## Skills
 
-#### 🖊️ ML/DL Algorithm
+#### 📙 ML/DL Algorithm
 
 <img src="https://img.shields.io/badge/RecSys-e0e0e0?style=flat&logo=RecSys&logoColor=white"/>
 
@@ -37,7 +35,7 @@
 
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=black"/>
 
-#### 📕 ML/DL Libraries
+#### 📕 ML/DL Libraries & DE Stacks
 
 <img src="https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white"/>
 
@@ -47,9 +45,9 @@
 
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white"/>
   
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=TensorFlow&logoColor=white"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=TensorFlow&logoColor=white"/> 
 
-#### 📙 DE Stacks
+<br>
 
 <img src="https://img.shields.io/badge/Spark-E25A1C?style=flat&logo=apachespark&logoColor=white"/>
   
