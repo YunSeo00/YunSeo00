@@ -74,8 +74,8 @@
 
 ## Stats
 <p>
-<img height="180em" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=yunseo7878">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YunSeo00&hide=Jupyter%20Notebook&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
+<img height="150em" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=yunseo7878">
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YunSeo00&hide=Jupyter%20Notebook&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
 </p>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYunSeo00&count_bg=%23EB8B10&title_bg=%23684327&icon=&icon_color=%23E7E7E7&title=VISIT&edge_flat=false)](https://github.com/YunSeo00)
