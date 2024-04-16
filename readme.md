@@ -79,3 +79,8 @@
 </p>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYunSeo00&count_bg=%23EB8B10&title_bg=%23684327&icon=&icon_color=%23E7E7E7&title=VISIT&edge_flat=false)](https://github.com/YunSeo00)
+
+## My git farm 🌱
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/farms/YunSeo00" height="150em" width="625em" />
+</a>
